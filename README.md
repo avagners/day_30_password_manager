@@ -1,3 +1,3 @@
 # Password Manager
 
-![screen](Screenshot.png)
+![screen](Screenshot_v2.png)
