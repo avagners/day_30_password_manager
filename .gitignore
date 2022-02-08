@@ -2,3 +2,4 @@ venv
 .idea
 .git
 data.txt
+data.json
